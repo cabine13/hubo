@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "709063332630",
+    "project_id": "hubo-64b8c",
+    "storage_bucket": "hubo-64b8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709063332630:android:f04ed390df0a3f7ce1f637",
+        "android_client_info": {
+          "package_name": "fr.palama.hubo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709063332630-a6cvd8f4u671p81vufn2rmde0a55lf8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANmx4F64236I76JrbtTX-cGMHWBI1vijU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709063332630-a6cvd8f4u671p81vufn2rmde0a55lf8f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "709063332630-4c00dk3f17ub000m6s4fefqvak89d6lh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "fr.palama.hubo.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
